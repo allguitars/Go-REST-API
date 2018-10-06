@@ -4,7 +4,7 @@ My first implementation of REST API with Golang -- a book management system that
 - Get a single book with ID (GET)
 - Create a new book (POST)
 - Update the book with ID (PUT)
-- Deleter a book with ID (DELETE)
+- Delete a book with ID (DELETE)
 
 ## Endpoints
 ```golang
