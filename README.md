@@ -16,7 +16,7 @@ My first implementation of REST API with Golang -- a book management system that
 ```
 
 ## Mock Data
-```javascript
+```golang
 // Mock data - @todo: implement DB
 	books = append(books, Book{
 		ID:     "1",
