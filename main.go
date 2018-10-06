@@ -115,7 +115,7 @@ func main() {
 		ID:     "1",
 		Isbn:   "33456",
 		Title:  "Book One",
-		Author: &Author{Firstname: "John", Lastname: "Doe"}})
+		Author: &Author{Firstname: "Jane", Lastname: "Doe"}})
 	books = append(books, Book{
 		ID:     "2",
 		Isbn:   "54678",
