@@ -1,5 +1,5 @@
 # Golang: REST API
-My first implementation of REST API with Golang -- a book management system that has five route handlers:
+Implementation of REST APIs in Golang -- a book management system that has five route handlers:
 - Get all books (GET)
 - Get a single book with ID (GET)
 - Create a new book (POST)
